@@ -1,4 +1,5 @@
 Revision history for Dist-Zilla-Plugin-ModuleBuild-OptionalXS
 
 {{$NEXT}}
+  * Initial Release.
 
