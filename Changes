@@ -1,5 +1,7 @@
 Revision history for Dist-Zilla-Plugin-ModuleBuild-OptionalXS
 
 {{$NEXT}}
+
+Version 0.01: 2011-11-09
   * Initial Release.
 
